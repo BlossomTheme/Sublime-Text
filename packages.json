@@ -1,0 +1,17 @@
+{
+	"schema_version": "1.0",
+	"packages": [
+		{
+			"name": "Blossom Theme",
+			"author": "BlossomTheme",
+			"details": "https://github.com/BlossomTheme/Sublime-Text",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"details": "https://github.com/BlossomTheme/Sublime-Text/tags"
+				}
+			]
+		}
+	]
+}
