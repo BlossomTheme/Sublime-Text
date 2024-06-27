@@ -2,6 +2,10 @@
 
 ## Preview
 
+![](./screenshot01.png)
+![](./screenshot02.png)
+![](./screenshot03.png)
+
 ## Installation 
 ### Install manually
 
